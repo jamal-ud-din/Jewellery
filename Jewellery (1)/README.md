@@ -1,4 +1,4 @@
-This project was created with [BuilderX](https://builderx.io/).
+for designing jewellery  project ,it was created with [BuilderX].
 
 ## BuilderX uses third party libraries for some of the react-native components such as
 
@@ -40,4 +40,3 @@ This will start the project.
 3. Run react-native link
 
 ##### This should add your custom fonts in the react native project.
-
